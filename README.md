@@ -1,2 +1,2 @@
 # payrollRepo
-payroll program
+My first attempt to create a payroll program.
