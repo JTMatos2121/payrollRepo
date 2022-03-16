@@ -1,2 +1,2 @@
 # payrollRepo
-My first attempt to create a payroll program.
+This is a basic early version of the payroll program.
